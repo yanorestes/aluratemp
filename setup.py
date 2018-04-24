@@ -24,4 +24,4 @@ setup(
 		'Download': 'https://github.com/yanorestes/aluratemp/archive/1.0.0.zip'
 	},
 	packages = ['aluratemp']
-	)
+)
