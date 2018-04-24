@@ -20,7 +20,8 @@ setup(
 	],
 	keywords = 'conversor temperatura alura',
 	project_urls = {
-		'Código fonte': 'https://github.com/yanorestes/aluratemp'
+		'Código fonte': 'https://github.com/yanorestes/aluratemp',
+		'Download': 'https://github.com/yanorestes/aluratemp/archive/1.0.0.zip'
 	},
 	packages = ['aluratemp']
 	)
